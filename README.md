@@ -1,4 +1,4 @@
-### These are some Projects i've worked (Portfolio in construction):
+### These are some old projects i've done:
 
 ### 1) Data Science projects:
 > #Project 1.1: Time Series Forecasting with XGBoost - Using python and machine learning to predict energy consumption [link](https://github.com/igorambrozini/Portfolio/tree/35dfa23609e9e88fddf1fd54bc0d1e3f1720004d/Project_1.1.Time%20Series%20Forecasting%20with%20XGBoost);  
